@@ -16,7 +16,7 @@ function App() {
     //         // .then(res => {
     //         //     dispatch(fetchTasksAC(res.data))
     //         // })
-    // })
+    // }, [])
 
 
     return (
