@@ -1,0 +1,62 @@
+.cardWrapper {
+    width: 350px;
+    border: 1px solid black;
+}
+
+.cardTitle {
+    display: flex;
+    justify-content: start;
+    gap: 15px;
+    margin-left: 20px;
+}
+
+.cardId {
+    background-color: #61dafb;
+    color: blue;
+    border-radius: 5px;
+
+}
+
+.cardPriority {
+    background-color: darkseagreen;
+    color: green;
+    border-radius: 5px;
+}
+
+.avatar {
+    display: flex;
+    width: 50px;
+    margin: 15px 0;
+}
+
+.data {
+    display: flex;
+    font-weight: 150;
+}
+
+.description {
+    text-align: start;
+    font-weight: 500;
+}
+.buttons {
+    display: flex;
+    justify-content: left;
+    gap: 5px;
+}
+
+.bossName {
+    display: flex;
+    justify-content: right;
+    font-weight: 40;
+    font-size: 15px;
+    text-align: right;
+}
+
+.lineAndBossName {
+    margin-top: 50px;
+}
+
+
+
+
+
