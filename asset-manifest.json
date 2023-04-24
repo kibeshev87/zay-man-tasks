@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/zay-man-tasks/static/css/main.c86bf5d2.css",
+    "main.css": "/zay-man-tasks/static/css/main.dfbce9e3.css",
     "main.js": "/zay-man-tasks/static/js/main.49f39dc6.js",
     "static/js/787.fbb724d9.chunk.js": "/zay-man-tasks/static/js/787.fbb724d9.chunk.js",
     "static/media/fa-solid-900.ttf": "/zay-man-tasks/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
@@ -12,12 +12,12 @@
     "static/media/fa-v4compatibility.ttf": "/zay-man-tasks/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
     "static/media/fa-v4compatibility.woff2": "/zay-man-tasks/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/zay-man-tasks/index.html",
-    "main.c86bf5d2.css.map": "/zay-man-tasks/static/css/main.c86bf5d2.css.map",
+    "main.dfbce9e3.css.map": "/zay-man-tasks/static/css/main.dfbce9e3.css.map",
     "main.49f39dc6.js.map": "/zay-man-tasks/static/js/main.49f39dc6.js.map",
     "787.fbb724d9.chunk.js.map": "/zay-man-tasks/static/js/787.fbb724d9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c86bf5d2.css",
+    "static/css/main.dfbce9e3.css",
     "static/js/main.49f39dc6.js"
   ]
 }
