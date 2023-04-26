@@ -10,6 +10,10 @@ function App() {
 
     const tasks = useSelector<RootStateType, TaskType[]>(state => state.tasks)
 
+    const test = () => {
+        console.log('test')
+    }
+
 
     // useEffect(() => {
     //     axios.get('baseUrl/endPoint')

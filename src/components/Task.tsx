@@ -32,6 +32,13 @@ export const Task = ({task}: TaskPropsType) => {
         alert('Таска удалена')
     }
 
+    const testFoo = () => {
+        console.log('testFoo')
+    }
+
+
+
+
     return (
         <MDBCard className={style.cardWrapper}>
             <MDBCardBody>
