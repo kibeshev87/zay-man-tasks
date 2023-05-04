@@ -32,11 +32,6 @@ export const Task = ({task}: TaskPropsType) => {
         alert('Таска удалена')
     }
 
-    const testFoo = () => {
-        console.log('testFoo')
-    }
-
-
 
 
     return (
@@ -64,11 +59,11 @@ export const Task = ({task}: TaskPropsType) => {
 
                 <MDBCardTitle className={style.data}>{data}</MDBCardTitle>
                 <MDBCardText className={style.description}>
-                    Some quick example text to build on the card title and make up the bulk of the card's content.
+                    Здесь может быть описание задачи, которую необходимо выполнить или что-нибудь ещё
                 </MDBCardText>
 
                 <div className={style.lineAndBossName}>
-                    <MDBCardTitle className={style.bossName}>Проверяет: Шабардин Максим</MDBCardTitle>
+                    <MDBCardTitle className={style.bossName}>Проверяет: Руководитель проекта</MDBCardTitle>
                     <hr/>
                 </div>
 

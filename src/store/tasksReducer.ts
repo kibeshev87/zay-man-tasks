@@ -2,10 +2,10 @@ import avatar from "../images/icon-avatar.png";
 
 
 const initialState: TaskType[] = [
-    {id: '1', avatar, data: '21 апреля 2023', isCompleted: true},
-    {id: '2', avatar, data: '21 апреля 2023', isCompleted: false, priority: 'Низкий'},
-    {id: '3', avatar, data: '21 апреля 2023', isCompleted: true, priority: 'Средний'},
-    {id: '4', avatar, data: '21 апреля 2023', isCompleted: false, priority: 'Высокий'}
+    {id: '1', avatar, data: '1 мая 2023', isCompleted: true},
+    {id: '2', avatar, data: '2 мая 2023', isCompleted: false, priority: 'Низкий'},
+    {id: '3', avatar, data: '3 мая 2023', isCompleted: true, priority: 'Средний'},
+    {id: '4', avatar, data: '4 мая 2023', isCompleted: false, priority: 'Высокий'}
 ]
 
 export type PriorityTaskType = 'Низкий' | 'Средний' | 'Высокий'
